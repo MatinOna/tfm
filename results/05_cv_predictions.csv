@@ -1,0 +1,1855 @@
+modelo,id,repeticion_1,repeticion_2,repeticion_3,repeticion_4,repeticion_5,repeticion_6,repeticion_7,repeticion_8,repeticion_9,repeticion_10
+SVM,drummer1/session1/1,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/102,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/103,funk,rock,funk,rock,rock,rock,funk,rock,rock,funk
+SVM,drummer1/session1/104,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/106,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/107,funk,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/108,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/109,rock,rock,rock,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/11,jazz,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/110,jazz,funk,jazz,jazz,funk,funk,funk,jazz,jazz,jazz
+SVM,drummer1/session1/111,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/112,jazz,jazz,funk,jazz,funk,jazz,jazz,jazz,funk,jazz
+SVM,drummer1/session1/113,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/114,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/115,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/116,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/117,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/118,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/119,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/12,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/120,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/121,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/122,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/123,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/124,funk,funk,funk,jazz,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/125,jazz,funk,rock,rock,funk,rock,rock,rock,rock,rock
+SVM,drummer1/session1/126,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/127,funk,jazz,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/128,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/129,latin,funk,funk,funk,funk,latin,funk,latin,latin,funk
+SVM,drummer1/session1/13,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/130,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/131,funk,funk,funk,funk,funk,funk,rock,funk,funk,funk
+SVM,drummer1/session1/132,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/133,funk,funk,funk,latin,funk,latin,funk,funk,latin,funk
+SVM,drummer1/session1/134,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/135,funk,funk,funk,jazz,funk,funk,jazz,funk,funk,funk
+SVM,drummer1/session1/136,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/137,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/138,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/139,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/14,jazz,funk,funk,jazz,funk,funk,jazz,funk,jazz,funk
+SVM,drummer1/session1/140,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/142,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+SVM,drummer1/session1/143,funk,rock,funk,funk,rock,funk,funk,funk,rock,funk
+SVM,drummer1/session1/144,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/145,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/146,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/147,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/148,latin,latin,latin,latin,latin,latin,jazz,latin,latin,latin
+SVM,drummer1/session1/149,funk,funk,rock,funk,funk,funk,funk,funk,rock,funk
+SVM,drummer1/session1/15,jazz,funk,jazz,funk,rock,funk,funk,jazz,jazz,rock
+SVM,drummer1/session1/150,jazz,latin,latin,latin,latin,jazz,latin,jazz,latin,latin
+SVM,drummer1/session1/151,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/152,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/154,jazz,jazz,jazz,jazz,jazz,jazz,latin,jazz,jazz,latin
+SVM,drummer1/session1/155,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/156,jazz,latin,latin,funk,jazz,latin,latin,latin,latin,jazz
+SVM,drummer1/session1/157,latin,latin,latin,rock,latin,latin,rock,latin,latin,rock
+SVM,drummer1/session1/158,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/159,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/16,jazz,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/160,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/161,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/162,jazz,jazz,funk,funk,funk,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/163,rock,rock,latin,rock,latin,rock,latin,rock,rock,funk
+SVM,drummer1/session1/164,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,funk
+SVM,drummer1/session1/165,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/167,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/168,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/169,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/17,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/170,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/171,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/172,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/173,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/174,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/175,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/19,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/2,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/20,funk,rock,funk,rock,rock,jazz,rock,rock,rock,rock
+SVM,drummer1/session1/202,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/203,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/204,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/205,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+SVM,drummer1/session1/206,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/208,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/209,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/21,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/210,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/211,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/213,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+SVM,drummer1/session1/214,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/215,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/216,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/217,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/218,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/219,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/22,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,funk,funk
+SVM,drummer1/session1/220,funk,funk,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/221,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/222,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/223,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/224,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/225,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/226,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/227,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/228,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/229,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+SVM,drummer1/session1/23,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,funk,funk
+SVM,drummer1/session1/230,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/231,funk,funk,funk,jazz,jazz,funk,funk,funk,funk,funk
+SVM,drummer1/session1/232,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/233,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/234,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/235,funk,funk,funk,funk,rock,funk,rock,rock,funk,funk
+SVM,drummer1/session1/236,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/237,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+SVM,drummer1/session1/238,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/24,latin,latin,funk,funk,funk,latin,funk,latin,latin,funk
+SVM,drummer1/session1/240,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/241,funk,funk,funk,funk,jazz,funk,funk,funk,funk,funk
+SVM,drummer1/session1/242,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/243,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/244,jazz,jazz,jazz,jazz,funk,funk,jazz,jazz,jazz,funk
+SVM,drummer1/session1/245,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/246,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/247,funk,funk,funk,funk,funk,funk,funk,jazz,funk,funk
+SVM,drummer1/session1/248,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/249,funk,jazz,jazz,funk,funk,funk,jazz,funk,funk,latin
+SVM,drummer1/session1/25,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/251,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/252,rock,rock,rock,funk,funk,funk,rock,funk,funk,funk
+SVM,drummer1/session1/253,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/254,jazz,rock,rock,funk,rock,rock,rock,funk,funk,rock
+SVM,drummer1/session1/255,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+SVM,drummer1/session1/256,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/257,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/258,rock,rock,rock,rock,rock,rock,rock,rock,rock,jazz
+SVM,drummer1/session1/26,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/260,funk,funk,funk,funk,rock,funk,rock,rock,funk,funk
+SVM,drummer1/session1/261,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/262,funk,funk,funk,funk,funk,funk,funk,latin,funk,funk
+SVM,drummer1/session1/263,funk,funk,funk,funk,funk,funk,funk,funk,rock,funk
+SVM,drummer1/session1/264,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/265,rock,funk,rock,funk,rock,rock,funk,rock,rock,rock
+SVM,drummer1/session1/266,jazz,jazz,funk,funk,funk,funk,jazz,jazz,jazz,funk
+SVM,drummer1/session1/267,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/268,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/27,funk,jazz,funk,funk,jazz,jazz,funk,funk,funk,jazz
+SVM,drummer1/session1/3,funk,funk,latin,funk,funk,funk,funk,funk,funk,latin
+SVM,drummer1/session1/30,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/31,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/32,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/33,jazz,jazz,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/34,latin,funk,latin,funk,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/35,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session1/36,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/37,rock,jazz,jazz,jazz,rock,rock,rock,jazz,jazz,jazz
+SVM,drummer1/session1/38,latin,jazz,latin,jazz,jazz,latin,jazz,latin,latin,latin
+SVM,drummer1/session1/39,funk,latin,latin,latin,jazz,latin,funk,latin,latin,latin
+SVM,drummer1/session1/40,latin,latin,latin,latin,jazz,latin,jazz,latin,latin,latin
+SVM,drummer1/session1/41,latin,latin,jazz,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/42,latin,latin,funk,latin,latin,latin,jazz,latin,latin,latin
+SVM,drummer1/session1/44,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/45,latin,latin,funk,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/46,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/47,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/48,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/49,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/5,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/50,rock,rock,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/51,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/52,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/53,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session1/55,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/56,jazz,jazz,jazz,jazz,jazz,jazz,jazz,latin,jazz,jazz
+SVM,drummer1/session1/57,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/58,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/59,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/6,jazz,jazz,funk,jazz,funk,funk,jazz,jazz,funk,funk
+SVM,drummer1/session1/60,jazz,jazz,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/61,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/62,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/63,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/64,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/65,jazz,jazz,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz
+SVM,drummer1/session1/66,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/67,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/68,jazz,jazz,jazz,jazz,jazz,jazz,jazz,funk,jazz,funk
+SVM,drummer1/session1/69,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/7,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/70,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/72,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz,funk,jazz
+SVM,drummer1/session1/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session1/74,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/75,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/76,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/77,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/78,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/79,latin,latin,latin,rock,latin,latin,latin,latin,rock,latin
+SVM,drummer1/session1/8,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session1/9,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session2/100,funk,funk,rock,rock,rock,funk,funk,rock,funk,funk
+SVM,drummer1/session2/101,funk,funk,rock,rock,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/102,rock,funk,funk,funk,funk,rock,funk,rock,rock,funk
+SVM,drummer1/session2/103,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/104,jazz,jazz,funk,funk,jazz,funk,funk,funk,funk,funk
+SVM,drummer1/session2/105,jazz,funk,funk,funk,jazz,funk,jazz,jazz,funk,funk
+SVM,drummer1/session2/106,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/107,funk,funk,rock,rock,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/108,funk,funk,rock,rock,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/109,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/180,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/181,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/182,rock,funk,funk,funk,rock,funk,rock,funk,rock,funk
+SVM,drummer1/session2/183,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/184,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/185,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/186,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/187,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/188,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/189,jazz,jazz,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session2/190,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+SVM,drummer1/session2/191,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/192,jazz,jazz,funk,jazz,jazz,jazz,jazz,funk,jazz,funk
+SVM,drummer1/session2/193,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/194,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/195,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/196,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/197,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/198,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/2,latin,latin,latin,latin,latin,latin,rock,latin,latin,latin
+SVM,drummer1/session2/3,latin,latin,latin,latin,latin,latin,jazz,latin,latin,latin
+SVM,drummer1/session2/7,jazz,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session2/8,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session2/9,jazz,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session2/90,funk,funk,funk,rock,funk,funk,rock,funk,funk,funk
+SVM,drummer1/session2/91,rock,rock,funk,rock,rock,rock,funk,rock,rock,funk
+SVM,drummer1/session2/92,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/93,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session2/94,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/95,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/96,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer1/session2/97,latin,latin,funk,latin,latin,funk,latin,latin,rock,latin
+SVM,drummer1/session3/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session3/10,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session3/12,latin,latin,jazz,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer1/session3/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session3/14,funk,rock,rock,rock,rock,rock,rock,rock,rock,funk
+SVM,drummer1/session3/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session3/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session3/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer1/session3/3,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session3/4,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer1/session3/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,rock,rock
+SVM,drummer1/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,funk,rock
+SVM,drummer1/session3/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer10/session1/1,rock,jazz,jazz,jazz,jazz,jazz,rock,rock,jazz,jazz
+SVM,drummer10/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer10/session1/2,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer10/session1/3,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer10/session1/4,rock,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,rock
+SVM,drummer10/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer10/session1/6,jazz,funk,funk,jazz,funk,funk,jazz,funk,funk,jazz
+SVM,drummer10/session1/7,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer10/session1/8,rock,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz,rock
+SVM,drummer10/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session1/1,rock,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/10,rock,rock,rock,rock,jazz,rock,rock,latin,latin,rock
+SVM,drummer3/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer3/session1/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/21,jazz,jazz,jazz,jazz,rock,rock,jazz,rock,jazz,rock
+SVM,drummer3/session1/22,jazz,jazz,jazz,jazz,rock,rock,jazz,jazz,jazz,rock
+SVM,drummer3/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/27,latin,funk,funk,latin,latin,funk,funk,latin,latin,funk
+SVM,drummer3/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/31,rock,funk,jazz,rock,funk,rock,rock,jazz,rock,rock
+SVM,drummer3/session1/33,rock,rock,rock,rock,rock,funk,funk,rock,funk,rock
+SVM,drummer3/session1/34,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/35,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/36,jazz,rock,jazz,jazz,jazz,jazz,jazz,rock,jazz,jazz
+SVM,drummer3/session1/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/39,rock,jazz,jazz,rock,rock,rock,jazz,jazz,rock,jazz
+SVM,drummer3/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/48,rock,rock,jazz,rock,rock,rock,jazz,jazz,jazz,jazz
+SVM,drummer3/session1/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer3/session1/50,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/19,latin,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/27,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz,rock
+SVM,drummer3/session2/28,jazz,rock,jazz,jazz,jazz,jazz,rock,jazz,jazz,rock
+SVM,drummer3/session2/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+SVM,drummer3/session2/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/34,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+SVM,drummer3/session2/42,rock,jazz,rock,rock,rock,rock,rock,jazz,rock,rock
+SVM,drummer3/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,jazz,rock
+SVM,drummer3/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+SVM,drummer3/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer3/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer4/session1/1,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer4/session1/2,rock,funk,rock,rock,funk,rock,rock,rock,rock,rock
+SVM,drummer4/session1/3,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer4/session1/4,funk,rock,rock,funk,rock,latin,funk,latin,latin,funk
+SVM,drummer4/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,rock,jazz,rock
+SVM,drummer4/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer5/session1/1,latin,rock,latin,latin,latin,latin,latin,latin,rock,latin
+SVM,drummer5/session1/10,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/11,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/14,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/15,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/16,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/2,latin,rock,latin,latin,latin,latin,latin,latin,rock,latin
+SVM,drummer5/session1/20,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/3,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/4,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/5,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/6,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session1/9,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/12,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer5/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer5/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer5/session2/17,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/18,latin,rock,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer5/session2/2,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/20,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/21,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/22,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/23,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/24,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer5/session2/3,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer6/session2/1,rock,funk,funk,rock,jazz,rock,funk,rock,rock,funk
+SVM,drummer6/session2/2,rock,jazz,rock,rock,jazz,jazz,rock,jazz,jazz,jazz
+SVM,drummer6/session2/3,rock,funk,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer6/session3/1,rock,funk,funk,rock,funk,funk,rock,rock,funk,funk
+SVM,drummer6/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer6/session3/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer6/session3/4,rock,rock,jazz,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer6/session3/5,rock,jazz,jazz,jazz,jazz,jazz,rock,rock,rock,rock
+SVM,drummer6/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer6/session3/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/1,rock,rock,latin,rock,latin,rock,rock,rock,rock,rock
+SVM,drummer7/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/12,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session1/13,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session1/14,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer7/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer7/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/3,rock,rock,rock,rock,funk,rock,funk,rock,rock,rock
+SVM,drummer7/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/5,rock,rock,rock,rock,rock,rock,funk,rock,rock,rock
+SVM,drummer7/session1/6,funk,funk,funk,funk,funk,funk,funk,funk,rock,funk
+SVM,drummer7/session1/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/10,rock,funk,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/11,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/113,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/115,rock,rock,rock,jazz,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/116,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer7/session2/117,rock,funk,funk,funk,rock,funk,rock,funk,funk,rock
+SVM,drummer7/session2/118,funk,jazz,jazz,jazz,funk,funk,jazz,jazz,jazz,jazz
+SVM,drummer7/session2/119,jazz,rock,rock,rock,rock,rock,rock,rock,rock,jazz
+SVM,drummer7/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/120,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/121,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/13,jazz,funk,rock,funk,funk,funk,rock,funk,rock,jazz
+SVM,drummer7/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/27,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/28,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+SVM,drummer7/session2/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/30,rock,rock,funk,funk,funk,rock,rock,funk,funk,rock
+SVM,drummer7/session2/31,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/32,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/33,rock,rock,rock,rock,rock,jazz,jazz,rock,rock,jazz
+SVM,drummer7/session2/34,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/50,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/51,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/52,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/64,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/65,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/66,rock,funk,funk,funk,rock,funk,rock,funk,funk,rock
+SVM,drummer7/session2/67,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/68,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/69,rock,funk,rock,funk,rock,rock,funk,rock,funk,rock
+SVM,drummer7/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/70,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/71,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/72,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/74,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/75,funk,funk,funk,funk,funk,funk,funk,funk,latin,funk
+SVM,drummer7/session2/76,funk,rock,rock,rock,rock,rock,rock,rock,funk,rock
+SVM,drummer7/session2/77,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/78,rock,funk,rock,rock,rock,funk,funk,funk,rock,rock
+SVM,drummer7/session2/79,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/10,latin,latin,latin,latin,latin,funk,funk,funk,latin,rock
+SVM,drummer7/session3/108,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/110,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/111,jazz,funk,funk,funk,funk,funk,funk,funk,jazz,funk
+SVM,drummer7/session3/112,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/113,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/114,rock,funk,funk,rock,rock,rock,funk,rock,rock,funk
+SVM,drummer7/session3/115,jazz,jazz,rock,rock,jazz,jazz,jazz,jazz,jazz,jazz
+SVM,drummer7/session3/116,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/118,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/119,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/120,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/121,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/123,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/124,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/125,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/126,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/127,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/129,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/2,jazz,rock,jazz,jazz,jazz,jazz,rock,jazz,rock,jazz
+SVM,drummer7/session3/3,rock,funk,funk,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/4,funk,funk,funk,rock,funk,funk,funk,funk,funk,rock
+SVM,drummer7/session3/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/46,rock,rock,latin,rock,latin,rock,latin,latin,latin,latin
+SVM,drummer7/session3/47,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/48,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/49,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/50,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/51,funk,funk,funk,funk,funk,funk,jazz,funk,jazz,funk
+SVM,drummer7/session3/52,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/54,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/55,funk,funk,funk,funk,funk,funk,rock,rock,funk,funk
+SVM,drummer7/session3/56,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/57,rock,funk,funk,rock,funk,funk,rock,rock,funk,rock
+SVM,drummer7/session3/58,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/59,jazz,funk,jazz,jazz,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/60,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/61,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/62,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/63,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/64,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/65,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer7/session3/66,funk,funk,funk,funk,funk,funk,funk,rock,funk,funk
+SVM,drummer7/session3/7,rock,rock,funk,jazz,jazz,rock,rock,rock,jazz,rock
+SVM,drummer7/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer7/session3/9,rock,funk,funk,funk,funk,funk,rock,funk,rock,funk
+SVM,drummer8/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer8/session1/12,latin,latin,latin,jazz,latin,jazz,latin,latin,latin,jazz
+SVM,drummer8/session1/13,jazz,latin,latin,jazz,latin,jazz,latin,jazz,latin,jazz
+SVM,drummer8/session1/18,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session1/2,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+SVM,drummer8/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer8/session1/21,rock,rock,rock,rock,rock,rock,rock,jazz,rock,rock
+SVM,drummer8/session1/22,funk,funk,funk,rock,funk,rock,rock,funk,funk,funk
+SVM,drummer8/session1/24,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session1/25,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session1/27,rock,latin,latin,latin,latin,rock,latin,latin,latin,latin
+SVM,drummer8/session1/28,funk,rock,funk,funk,rock,funk,rock,funk,rock,funk
+SVM,drummer8/session1/6,rock,funk,rock,rock,rock,rock,rock,rock,funk,funk
+SVM,drummer8/session1/7,rock,rock,funk,rock,rock,rock,funk,funk,funk,funk
+SVM,drummer8/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer8/session2/1,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session2/11,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session2/12,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session2/15,rock,rock,rock,rock,funk,funk,rock,funk,funk,rock
+SVM,drummer8/session2/2,funk,latin,funk,funk,funk,latin,funk,funk,funk,funk
+SVM,drummer8/session2/22,latin,latin,latin,rock,rock,rock,rock,rock,latin,rock
+SVM,drummer8/session2/24,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer8/session2/25,latin,funk,latin,latin,funk,latin,funk,latin,latin,funk
+SVM,drummer8/session2/28,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer8/session2/29,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer8/session2/32,latin,rock,jazz,rock,rock,rock,rock,rock,jazz,latin
+SVM,drummer8/session2/33,latin,rock,latin,rock,rock,funk,funk,rock,funk,latin
+SVM,drummer8/session2/34,latin,latin,latin,latin,latin,latin,latin,latin,latin,funk
+SVM,drummer8/session2/35,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer8/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer8/session2/37,rock,rock,latin,funk,funk,funk,funk,funk,rock,funk
+SVM,drummer8/session2/38,rock,rock,latin,funk,rock,funk,funk,rock,rock,rock
+SVM,drummer8/session2/39,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer8/session2/5,funk,funk,funk,funk,funk,latin,funk,funk,funk,funk
+SVM,drummer8/session2/6,funk,funk,funk,funk,funk,latin,funk,funk,funk,funk
+SVM,drummer8/session2/7,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer8/session2/8,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+SVM,drummer9/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/10,rock,funk,rock,rock,rock,rock,funk,funk,rock,funk
+SVM,drummer9/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/2,rock,rock,rock,funk,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/27,rock,rock,rock,rock,latin,rock,rock,latin,rock,latin
+SVM,drummer9/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer9/session1/8,funk,rock,rock,rock,rock,funk,rock,rock,rock,rock
+SVM,drummer9/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session3/1,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+SVM,drummer2/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/2,jazz,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,jazz
+SVM,drummer2/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/7,rock,rock,rock,jazz,rock,rock,rock,rock,jazz,rock
+SVM,drummer2/session2/8,rock,rock,rock,jazz,rock,rock,rock,rock,jazz,rock
+SVM,drummer2/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+SVM,drummer2/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/1,funk,funk,funk,funk,funk,funk,latin,funk,funk,funk
+Random Forest,drummer1/session1/10,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/102,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/103,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/104,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/106,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/107,jazz,latin,latin,jazz,jazz,jazz,latin,funk,jazz,jazz
+Random Forest,drummer1/session1/108,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/109,funk,jazz,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/11,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/110,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/111,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/112,jazz,funk,jazz,jazz,jazz,jazz,jazz,funk,funk,jazz
+Random Forest,drummer1/session1/113,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/114,latin,latin,latin,latin,latin,latin,latin,funk,latin,latin
+Random Forest,drummer1/session1/115,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/116,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/117,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/118,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/119,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/12,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/120,rock,funk,rock,funk,rock,rock,funk,funk,funk,funk
+Random Forest,drummer1/session1/121,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/122,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/123,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/124,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/125,rock,funk,funk,rock,funk,funk,funk,funk,rock,funk
+Random Forest,drummer1/session1/126,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/127,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/128,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/129,funk,latin,funk,latin,funk,latin,jazz,latin,latin,latin
+Random Forest,drummer1/session1/13,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/130,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/131,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/132,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/133,funk,funk,funk,rock,rock,rock,funk,rock,rock,funk
+Random Forest,drummer1/session1/134,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/135,funk,latin,funk,latin,funk,funk,funk,funk,funk,jazz
+Random Forest,drummer1/session1/136,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/137,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/138,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/139,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/14,jazz,funk,jazz,jazz,funk,funk,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/140,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/142,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/143,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/144,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/145,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/146,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/147,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/148,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/149,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/15,rock,funk,funk,funk,funk,rock,rock,rock,funk,funk
+Random Forest,drummer1/session1/150,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/151,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/152,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/154,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/155,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/156,latin,latin,latin,jazz,jazz,latin,latin,jazz,latin,latin
+Random Forest,drummer1/session1/157,rock,rock,latin,rock,latin,latin,rock,rock,latin,rock
+Random Forest,drummer1/session1/158,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/159,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/16,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/160,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/161,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/162,jazz,latin,latin,latin,jazz,latin,latin,jazz,jazz,jazz
+Random Forest,drummer1/session1/163,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/164,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/165,funk,funk,latin,latin,latin,latin,funk,funk,latin,funk
+Random Forest,drummer1/session1/167,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/168,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/169,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/17,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/170,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/171,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/172,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/173,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/174,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/175,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/19,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,latin
+Random Forest,drummer1/session1/2,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/20,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/202,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/203,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/204,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/205,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/206,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/208,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/209,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/21,latin,latin,latin,latin,latin,latin,latin,latin,latin,funk
+Random Forest,drummer1/session1/210,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/211,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/213,funk,funk,funk,funk,funk,funk,rock,funk,funk,funk
+Random Forest,drummer1/session1/214,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/215,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/216,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/217,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/218,rock,rock,jazz,rock,rock,jazz,funk,rock,funk,funk
+Random Forest,drummer1/session1/219,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/22,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,funk,funk
+Random Forest,drummer1/session1/220,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/221,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/222,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/223,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/224,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/225,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/226,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/227,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/228,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/229,rock,rock,rock,rock,jazz,rock,rock,rock,funk,rock
+Random Forest,drummer1/session1/23,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,funk,funk
+Random Forest,drummer1/session1/230,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/231,jazz,jazz,funk,jazz,jazz,funk,funk,jazz,funk,funk
+Random Forest,drummer1/session1/232,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/233,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/234,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/235,funk,funk,funk,funk,rock,rock,funk,rock,funk,funk
+Random Forest,drummer1/session1/236,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/237,rock,funk,funk,funk,funk,rock,funk,funk,funk,funk
+Random Forest,drummer1/session1/238,rock,funk,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/24,funk,funk,funk,funk,funk,latin,funk,latin,funk,funk
+Random Forest,drummer1/session1/240,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/241,funk,jazz,funk,funk,jazz,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/242,funk,rock,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/243,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/244,jazz,jazz,funk,jazz,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/245,rock,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/246,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/247,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/248,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/249,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/25,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/251,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/252,rock,rock,rock,funk,rock,funk,rock,rock,rock,rock
+Random Forest,drummer1/session1/253,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/254,funk,rock,funk,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/255,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+Random Forest,drummer1/session1/256,funk,funk,funk,funk,funk,funk,funk,funk,jazz,funk
+Random Forest,drummer1/session1/257,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/258,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/26,funk,funk,funk,jazz,funk,funk,funk,funk,funk,jazz
+Random Forest,drummer1/session1/260,funk,rock,rock,funk,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/261,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/262,funk,rock,funk,funk,rock,funk,funk,jazz,funk,funk
+Random Forest,drummer1/session1/263,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+Random Forest,drummer1/session1/264,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/265,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/266,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/267,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/268,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/27,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session1/3,funk,funk,latin,funk,latin,funk,latin,funk,funk,latin
+Random Forest,drummer1/session1/30,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/31,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/32,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/33,jazz,jazz,jazz,jazz,jazz,jazz,latin,jazz,jazz,jazz
+Random Forest,drummer1/session1/34,latin,jazz,latin,latin,jazz,jazz,latin,latin,latin,latin
+Random Forest,drummer1/session1/35,latin,latin,latin,funk,funk,latin,latin,latin,funk,funk
+Random Forest,drummer1/session1/36,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/37,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/38,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/39,funk,latin,latin,latin,funk,latin,funk,latin,funk,latin
+Random Forest,drummer1/session1/40,funk,latin,latin,latin,jazz,latin,funk,latin,funk,latin
+Random Forest,drummer1/session1/41,latin,latin,jazz,latin,latin,latin,jazz,jazz,latin,latin
+Random Forest,drummer1/session1/42,latin,latin,jazz,latin,latin,latin,jazz,latin,latin,latin
+Random Forest,drummer1/session1/44,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/45,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/46,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/47,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/48,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/49,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/5,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/50,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/51,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/52,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/53,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session1/55,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/56,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/57,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/58,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/59,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/6,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/60,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/61,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/62,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/63,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/64,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/65,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/66,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/67,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/68,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/69,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/7,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/70,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/72,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,funk,jazz
+Random Forest,drummer1/session1/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/74,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/75,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/76,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/77,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/78,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/79,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session1/8,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session1/9,jazz,jazz,latin,latin,jazz,jazz,jazz,latin,jazz,latin
+Random Forest,drummer1/session2/100,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/101,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/102,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/103,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/104,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/105,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/106,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/107,funk,funk,rock,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/108,funk,funk,rock,rock,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/109,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/180,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/181,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/182,rock,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/183,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/184,funk,funk,rock,rock,funk,rock,funk,rock,funk,funk
+Random Forest,drummer1/session2/185,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/186,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/187,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/188,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/189,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session2/190,rock,rock,rock,funk,rock,rock,rock,funk,rock,rock
+Random Forest,drummer1/session2/191,funk,funk,funk,jazz,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/192,funk,funk,funk,jazz,funk,funk,funk,funk,jazz,funk
+Random Forest,drummer1/session2/193,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/194,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/195,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/196,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/197,funk,funk,funk,funk,funk,funk,funk,rock,funk,rock
+Random Forest,drummer1/session2/198,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/2,latin,latin,latin,latin,latin,latin,jazz,latin,latin,latin
+Random Forest,drummer1/session2/3,jazz,jazz,latin,latin,latin,jazz,jazz,latin,jazz,jazz
+Random Forest,drummer1/session2/7,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session2/8,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session2/9,jazz,latin,latin,latin,latin,jazz,latin,jazz,latin,latin
+Random Forest,drummer1/session2/90,rock,rock,rock,funk,funk,rock,rock,rock,rock,rock
+Random Forest,drummer1/session2/91,funk,rock,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/92,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/93,funk,rock,rock,rock,funk,rock,funk,rock,funk,funk
+Random Forest,drummer1/session2/94,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/95,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/96,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer1/session2/97,rock,latin,rock,rock,latin,rock,latin,rock,rock,latin
+Random Forest,drummer1/session3/1,funk,funk,funk,funk,latin,funk,funk,funk,funk,latin
+Random Forest,drummer1/session3/10,jazz,jazz,latin,latin,jazz,latin,latin,jazz,latin,latin
+Random Forest,drummer1/session3/12,funk,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer1/session3/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/15,rock,funk,funk,funk,funk,funk,funk,rock,funk,funk
+Random Forest,drummer1/session3/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/3,rock,rock,rock,rock,jazz,jazz,jazz,jazz,jazz,rock
+Random Forest,drummer1/session3/4,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer1/session3/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,rock
+Random Forest,drummer1/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer1/session3/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer10/session1/1,rock,jazz,jazz,jazz,rock,jazz,rock,jazz,rock,jazz
+Random Forest,drummer10/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer10/session1/2,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer10/session1/3,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer10/session1/4,rock,jazz,rock,rock,rock,rock,rock,jazz,rock,rock
+Random Forest,drummer10/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer10/session1/6,rock,jazz,jazz,jazz,rock,jazz,funk,jazz,funk,rock
+Random Forest,drummer10/session1/7,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,rock
+Random Forest,drummer10/session1/8,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+Random Forest,drummer10/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/10,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer3/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer3/session1/16,rock,rock,rock,rock,rock,rock,jazz,rock,rock,rock
+Random Forest,drummer3/session1/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/19,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer3/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/21,jazz,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer3/session1/22,jazz,jazz,jazz,jazz,rock,rock,jazz,jazz,jazz,rock
+Random Forest,drummer3/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/27,rock,funk,funk,funk,rock,rock,funk,funk,rock,funk
+Random Forest,drummer3/session1/28,jazz,rock,rock,rock,rock,jazz,rock,rock,rock,rock
+Random Forest,drummer3/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/31,funk,rock,funk,rock,funk,rock,funk,rock,rock,rock
+Random Forest,drummer3/session1/33,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/34,jazz,rock,rock,rock,rock,rock,jazz,rock,rock,rock
+Random Forest,drummer3/session1/35,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/36,jazz,jazz,jazz,jazz,rock,jazz,rock,rock,jazz,jazz
+Random Forest,drummer3/session1/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,jazz
+Random Forest,drummer3/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/5,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer3/session1/50,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/6,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+Random Forest,drummer3/session1/8,rock,rock,rock,jazz,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/27,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer3/session2/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/29,jazz,jazz,rock,rock,jazz,rock,jazz,rock,rock,jazz
+Random Forest,drummer3/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/34,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/39,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+Random Forest,drummer3/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/42,rock,rock,jazz,jazz,rock,rock,rock,jazz,rock,rock
+Random Forest,drummer3/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer3/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer4/session1/1,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer4/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer4/session1/3,rock,rock,rock,rock,jazz,jazz,rock,rock,jazz,rock
+Random Forest,drummer4/session1/4,latin,latin,rock,latin,latin,latin,latin,latin,rock,latin
+Random Forest,drummer4/session1/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer4/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer5/session1/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/10,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/11,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/14,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/15,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/16,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/2,latin,rock,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/20,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/3,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/4,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/5,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/6,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session1/9,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/12,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer5/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer5/session2/15,rock,rock,rock,rock,rock,rock,latin,rock,rock,rock
+Random Forest,drummer5/session2/17,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/18,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer5/session2/2,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/20,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/21,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/22,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/23,latin,funk,funk,funk,latin,funk,funk,funk,funk,funk
+Random Forest,drummer5/session2/24,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer5/session2/3,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer6/session2/1,rock,funk,funk,funk,funk,funk,funk,rock,rock,funk
+Random Forest,drummer6/session2/2,rock,rock,rock,rock,jazz,jazz,jazz,rock,jazz,jazz
+Random Forest,drummer6/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/1,funk,funk,funk,funk,funk,rock,rock,rock,funk,funk
+Random Forest,drummer6/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer6/session3/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/12,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session1/13,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session1/14,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer7/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer7/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/5,rock,funk,funk,rock,funk,rock,rock,funk,funk,rock
+Random Forest,drummer7/session1/6,rock,funk,rock,rock,rock,rock,rock,funk,rock,funk
+Random Forest,drummer7/session1/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,jazz
+Random Forest,drummer7/session2/11,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/113,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/115,funk,funk,funk,funk,funk,funk,jazz,funk,jazz,jazz
+Random Forest,drummer7/session2/116,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/117,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/118,rock,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/119,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/12,rock,funk,funk,funk,funk,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/120,rock,rock,rock,rock,rock,rock,funk,rock,rock,rock
+Random Forest,drummer7/session2/121,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/22,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer7/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/27,rock,rock,funk,rock,rock,rock,funk,rock,rock,rock
+Random Forest,drummer7/session2/28,funk,funk,rock,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/3,funk,funk,rock,rock,funk,funk,rock,funk,funk,funk
+Random Forest,drummer7/session2/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/31,funk,rock,funk,rock,rock,rock,rock,funk,funk,rock
+Random Forest,drummer7/session2/32,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/33,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/34,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/44,rock,rock,rock,rock,funk,rock,funk,rock,rock,rock
+Random Forest,drummer7/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/50,rock,rock,rock,rock,rock,jazz,rock,jazz,rock,jazz
+Random Forest,drummer7/session2/51,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/52,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/64,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/65,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/66,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/67,rock,funk,funk,rock,funk,funk,funk,rock,funk,rock
+Random Forest,drummer7/session2/68,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/69,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/70,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/71,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/72,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/74,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/75,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/76,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/77,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/78,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/79,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/1,latin,rock,rock,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer7/session3/10,latin,latin,latin,latin,latin,latin,funk,latin,latin,latin
+Random Forest,drummer7/session3/108,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/110,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/111,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/112,latin,latin,funk,latin,funk,funk,funk,latin,latin,latin
+Random Forest,drummer7/session3/113,rock,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/114,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/115,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer7/session3/116,latin,latin,jazz,jazz,rock,rock,jazz,jazz,jazz,jazz
+Random Forest,drummer7/session3/118,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/119,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/120,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/121,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/123,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/124,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/125,rock,funk,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/126,rock,funk,rock,funk,funk,rock,funk,funk,funk,funk
+Random Forest,drummer7/session3/127,rock,funk,rock,funk,funk,rock,funk,funk,funk,rock
+Random Forest,drummer7/session3/129,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/3,rock,funk,funk,funk,rock,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/39,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer7/session3/4,funk,funk,rock,funk,funk,funk,funk,funk,funk,rock
+Random Forest,drummer7/session3/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/42,rock,jazz,rock,rock,jazz,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/46,latin,latin,rock,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer7/session3/47,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/48,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/49,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/50,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/51,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/52,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/54,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/55,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/56,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/57,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/58,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/59,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/60,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/61,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/62,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/63,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/64,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/65,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/66,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer7/session3/7,jazz,rock,funk,jazz,funk,funk,jazz,funk,funk,funk
+Random Forest,drummer7/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer7/session3/9,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer8/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/12,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer8/session1/13,latin,rock,rock,jazz,jazz,jazz,jazz,rock,jazz,jazz
+Random Forest,drummer8/session1/18,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer8/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/22,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/24,funk,funk,funk,rock,rock,rock,funk,rock,funk,funk
+Random Forest,drummer8/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/27,rock,latin,latin,latin,rock,latin,funk,funk,latin,latin
+Random Forest,drummer8/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session1/6,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+Random Forest,drummer8/session1/7,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer8/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/1,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer8/session2/11,funk,funk,funk,funk,funk,rock,funk,rock,funk,funk
+Random Forest,drummer8/session2/12,funk,funk,funk,funk,funk,funk,funk,rock,funk,funk
+Random Forest,drummer8/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/2,funk,latin,funk,funk,funk,latin,funk,funk,funk,funk
+Random Forest,drummer8/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/24,latin,funk,latin,funk,funk,latin,funk,latin,latin,latin
+Random Forest,drummer8/session2/25,latin,latin,latin,latin,latin,latin,latin,latin,latin,funk
+Random Forest,drummer8/session2/28,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer8/session2/29,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer8/session2/32,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/33,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/34,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer8/session2/35,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer8/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer8/session2/37,rock,rock,rock,rock,rock,latin,rock,latin,rock,rock
+Random Forest,drummer8/session2/38,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer8/session2/39,latin,latin,latin,latin,latin,funk,latin,latin,latin,funk
+Random Forest,drummer8/session2/5,funk,funk,latin,funk,funk,latin,funk,funk,funk,funk
+Random Forest,drummer8/session2/6,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+Random Forest,drummer8/session2/7,rock,rock,rock,rock,rock,latin,rock,rock,rock,latin
+Random Forest,drummer8/session2/8,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer9/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/15,rock,funk,funk,funk,funk,rock,funk,funk,funk,funk
+Random Forest,drummer9/session1/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,jazz
+Random Forest,drummer9/session1/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/22,rock,rock,jazz,rock,rock,rock,rock,rock,rock,jazz
+Random Forest,drummer9/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/27,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,latin
+Random Forest,drummer9/session1/4,funk,funk,funk,funk,funk,funk,rock,funk,rock,funk
+Random Forest,drummer9/session1/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer9/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session3/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+Random Forest,drummer2/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/2,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+Random Forest,drummer2/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+Random Forest,drummer2/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/1,funk,latin,funk,funk,latin,latin,latin,funk,funk,latin
+XGBoost,drummer1/session1/10,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+XGBoost,drummer1/session1/102,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/103,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/104,funk,jazz,funk,funk,funk,funk,funk,jazz,funk,jazz
+XGBoost,drummer1/session1/106,funk,jazz,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/107,funk,latin,latin,jazz,jazz,jazz,funk,latin,jazz,latin
+XGBoost,drummer1/session1/108,rock,rock,rock,jazz,jazz,rock,rock,rock,rock,jazz
+XGBoost,drummer1/session1/109,funk,rock,funk,funk,funk,funk,rock,funk,funk,funk
+XGBoost,drummer1/session1/11,jazz,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/110,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/111,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/112,jazz,funk,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/113,funk,funk,funk,funk,rock,funk,rock,funk,funk,funk
+XGBoost,drummer1/session1/114,latin,latin,funk,funk,funk,funk,latin,funk,funk,funk
+XGBoost,drummer1/session1/115,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/116,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/117,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/118,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/119,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/12,latin,funk,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/120,rock,funk,rock,funk,rock,rock,rock,funk,funk,funk
+XGBoost,drummer1/session1/121,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/122,funk,latin,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/123,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/124,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/125,latin,funk,funk,latin,funk,funk,funk,rock,funk,funk
+XGBoost,drummer1/session1/126,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/127,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/128,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/129,funk,funk,funk,funk,funk,funk,funk,funk,funk,jazz
+XGBoost,drummer1/session1/13,jazz,jazz,funk,funk,funk,jazz,funk,jazz,funk,jazz
+XGBoost,drummer1/session1/130,rock,rock,rock,rock,jazz,rock,funk,rock,jazz,jazz
+XGBoost,drummer1/session1/131,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+XGBoost,drummer1/session1/132,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/133,rock,funk,funk,funk,rock,rock,funk,funk,funk,funk
+XGBoost,drummer1/session1/134,rock,funk,rock,funk,rock,funk,funk,funk,funk,rock
+XGBoost,drummer1/session1/135,latin,latin,jazz,funk,funk,funk,latin,funk,funk,funk
+XGBoost,drummer1/session1/136,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/137,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/138,funk,funk,funk,jazz,jazz,funk,funk,jazz,funk,funk
+XGBoost,drummer1/session1/139,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/14,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/140,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/142,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/143,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/144,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/145,funk,funk,latin,rock,funk,funk,funk,funk,latin,funk
+XGBoost,drummer1/session1/146,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/147,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/148,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/149,rock,latin,latin,funk,rock,latin,latin,rock,latin,latin
+XGBoost,drummer1/session1/15,rock,funk,funk,funk,funk,funk,rock,rock,funk,funk
+XGBoost,drummer1/session1/150,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/151,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/152,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/154,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/155,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/156,jazz,jazz,latin,funk,jazz,jazz,jazz,jazz,funk,jazz
+XGBoost,drummer1/session1/157,rock,jazz,rock,rock,latin,rock,rock,rock,latin,rock
+XGBoost,drummer1/session1/158,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/159,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/16,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/160,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/161,latin,latin,latin,latin,jazz,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/162,latin,latin,latin,latin,jazz,latin,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/163,latin,latin,latin,funk,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/164,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/165,funk,latin,funk,latin,funk,funk,funk,funk,latin,funk
+XGBoost,drummer1/session1/167,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/168,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/169,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/17,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/170,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/171,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/172,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/173,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/174,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/175,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/19,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/2,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/20,jazz,jazz,jazz,jazz,jazz,jazz,jazz,latin,jazz,jazz
+XGBoost,drummer1/session1/202,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/203,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/204,rock,jazz,rock,rock,jazz,rock,jazz,rock,rock,jazz
+XGBoost,drummer1/session1/205,funk,rock,rock,rock,rock,rock,funk,rock,rock,rock
+XGBoost,drummer1/session1/206,rock,rock,rock,rock,rock,rock,rock,rock,funk,rock
+XGBoost,drummer1/session1/208,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/209,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/21,latin,latin,latin,funk,latin,latin,latin,latin,latin,funk
+XGBoost,drummer1/session1/210,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/211,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/213,funk,rock,funk,funk,funk,funk,rock,funk,funk,funk
+XGBoost,drummer1/session1/214,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/215,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/216,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/217,rock,rock,rock,rock,rock,rock,funk,rock,rock,rock
+XGBoost,drummer1/session1/218,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/219,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/22,jazz,jazz,jazz,jazz,funk,jazz,jazz,jazz,funk,funk
+XGBoost,drummer1/session1/220,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/221,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/222,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/223,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/224,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/225,rock,rock,jazz,jazz,jazz,jazz,rock,jazz,jazz,rock
+XGBoost,drummer1/session1/226,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/227,rock,rock,rock,rock,funk,rock,rock,funk,rock,rock
+XGBoost,drummer1/session1/228,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/229,rock,jazz,rock,funk,funk,funk,rock,rock,rock,rock
+XGBoost,drummer1/session1/23,jazz,jazz,jazz,funk,funk,jazz,jazz,jazz,funk,funk
+XGBoost,drummer1/session1/230,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/231,funk,funk,funk,funk,funk,funk,funk,jazz,funk,funk
+XGBoost,drummer1/session1/232,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/233,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/234,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/235,rock,rock,funk,rock,rock,rock,rock,rock,funk,rock
+XGBoost,drummer1/session1/236,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/237,funk,funk,funk,funk,funk,rock,funk,rock,funk,rock
+XGBoost,drummer1/session1/238,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/24,rock,funk,funk,funk,latin,funk,funk,latin,latin,funk
+XGBoost,drummer1/session1/240,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/241,jazz,jazz,funk,funk,jazz,funk,funk,jazz,funk,jazz
+XGBoost,drummer1/session1/242,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/243,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/244,jazz,jazz,funk,funk,funk,funk,funk,jazz,jazz,funk
+XGBoost,drummer1/session1/245,rock,rock,rock,funk,funk,funk,rock,funk,funk,rock
+XGBoost,drummer1/session1/246,funk,jazz,funk,rock,rock,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/247,jazz,funk,jazz,jazz,jazz,funk,funk,jazz,jazz,jazz
+XGBoost,drummer1/session1/248,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/249,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/25,jazz,jazz,funk,funk,funk,funk,funk,funk,funk,jazz
+XGBoost,drummer1/session1/251,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/252,rock,rock,rock,funk,funk,funk,rock,rock,rock,funk
+XGBoost,drummer1/session1/253,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/254,rock,funk,funk,rock,rock,funk,rock,rock,rock,rock
+XGBoost,drummer1/session1/255,rock,jazz,rock,rock,rock,rock,jazz,rock,rock,funk
+XGBoost,drummer1/session1/256,funk,jazz,funk,jazz,funk,funk,jazz,funk,jazz,jazz
+XGBoost,drummer1/session1/257,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/258,rock,funk,funk,rock,rock,funk,rock,rock,funk,funk
+XGBoost,drummer1/session1/26,jazz,funk,funk,jazz,jazz,jazz,funk,jazz,jazz,jazz
+XGBoost,drummer1/session1/260,rock,funk,jazz,rock,rock,funk,jazz,jazz,funk,rock
+XGBoost,drummer1/session1/261,rock,funk,funk,funk,rock,rock,rock,funk,funk,funk
+XGBoost,drummer1/session1/262,funk,jazz,funk,funk,funk,funk,funk,jazz,funk,funk
+XGBoost,drummer1/session1/263,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+XGBoost,drummer1/session1/264,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/265,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/266,funk,funk,funk,funk,funk,funk,funk,funk,funk,jazz
+XGBoost,drummer1/session1/267,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/268,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/27,jazz,jazz,funk,jazz,jazz,jazz,jazz,jazz,latin,jazz
+XGBoost,drummer1/session1/3,funk,funk,funk,latin,latin,funk,funk,funk,funk,funk
+XGBoost,drummer1/session1/30,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/31,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/32,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/33,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/34,latin,jazz,latin,latin,latin,jazz,latin,latin,latin,latin
+XGBoost,drummer1/session1/35,latin,funk,funk,funk,latin,latin,latin,latin,funk,funk
+XGBoost,drummer1/session1/36,latin,latin,jazz,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/37,latin,jazz,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/38,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/39,funk,funk,latin,funk,funk,funk,funk,jazz,funk,latin
+XGBoost,drummer1/session1/40,jazz,latin,funk,latin,jazz,latin,jazz,latin,funk,jazz
+XGBoost,drummer1/session1/41,latin,jazz,jazz,latin,latin,jazz,jazz,jazz,jazz,latin
+XGBoost,drummer1/session1/42,latin,latin,jazz,latin,latin,jazz,jazz,jazz,latin,latin
+XGBoost,drummer1/session1/44,latin,latin,latin,latin,latin,latin,latin,latin,latin,jazz
+XGBoost,drummer1/session1/45,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/46,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/47,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/48,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/49,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/5,funk,latin,latin,jazz,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/50,jazz,jazz,jazz,jazz,funk,latin,jazz,latin,jazz,jazz
+XGBoost,drummer1/session1/51,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/52,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/53,latin,latin,latin,jazz,latin,jazz,latin,latin,jazz,latin
+XGBoost,drummer1/session1/55,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/56,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/57,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/58,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/59,jazz,jazz,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/6,jazz,latin,jazz,jazz,jazz,funk,jazz,jazz,jazz,funk
+XGBoost,drummer1/session1/60,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/61,rock,jazz,jazz,jazz,jazz,rock,rock,jazz,jazz,rock
+XGBoost,drummer1/session1/62,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/63,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/64,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/65,jazz,jazz,jazz,jazz,jazz,jazz,latin,jazz,latin,jazz
+XGBoost,drummer1/session1/66,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/67,jazz,jazz,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/68,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/69,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/7,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/70,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/72,jazz,jazz,funk,jazz,jazz,jazz,funk,funk,funk,jazz
+XGBoost,drummer1/session1/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session1/74,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/75,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,rock
+XGBoost,drummer1/session1/76,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/77,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/78,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session1/79,latin,latin,latin,rock,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session1/8,jazz,jazz,latin,jazz,latin,latin,jazz,latin,latin,jazz
+XGBoost,drummer1/session1/9,latin,jazz,latin,latin,jazz,jazz,jazz,latin,jazz,jazz
+XGBoost,drummer1/session2/100,funk,funk,funk,funk,funk,funk,funk,rock,funk,funk
+XGBoost,drummer1/session2/101,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+XGBoost,drummer1/session2/102,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/103,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/104,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/105,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/106,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/107,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/108,funk,funk,funk,rock,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/109,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+XGBoost,drummer1/session2/180,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/181,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/182,rock,funk,rock,rock,rock,funk,rock,funk,rock,funk
+XGBoost,drummer1/session2/183,rock,rock,funk,rock,rock,funk,rock,funk,rock,rock
+XGBoost,drummer1/session2/184,rock,rock,rock,rock,rock,rock,rock,rock,funk,rock
+XGBoost,drummer1/session2/185,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/186,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/187,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/188,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/189,rock,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session2/190,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/191,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/192,funk,funk,funk,jazz,funk,funk,funk,funk,jazz,funk
+XGBoost,drummer1/session2/193,rock,rock,rock,rock,rock,rock,rock,rock,jazz,rock
+XGBoost,drummer1/session2/194,funk,funk,funk,funk,funk,funk,funk,rock,funk,funk
+XGBoost,drummer1/session2/195,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/196,rock,rock,rock,rock,rock,rock,rock,jazz,rock,jazz
+XGBoost,drummer1/session2/197,funk,funk,funk,funk,rock,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/198,rock,rock,rock,funk,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session2/2,rock,rock,rock,rock,rock,rock,jazz,latin,rock,rock
+XGBoost,drummer1/session2/3,jazz,latin,latin,latin,latin,jazz,jazz,latin,latin,latin
+XGBoost,drummer1/session2/7,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer1/session2/8,jazz,jazz,latin,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session2/9,funk,jazz,latin,latin,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/90,funk,funk,funk,funk,rock,funk,rock,rock,funk,funk
+XGBoost,drummer1/session2/91,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/92,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/93,rock,rock,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/94,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/95,funk,funk,rock,funk,funk,funk,funk,funk,rock,funk
+XGBoost,drummer1/session2/96,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer1/session2/97,rock,latin,latin,rock,rock,latin,rock,rock,rock,latin
+XGBoost,drummer1/session3/1,latin,latin,latin,latin,latin,latin,rock,latin,latin,latin
+XGBoost,drummer1/session3/10,latin,jazz,latin,latin,jazz,latin,latin,latin,latin,latin
+XGBoost,drummer1/session3/12,funk,funk,latin,latin,funk,latin,rock,funk,latin,funk
+XGBoost,drummer1/session3/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/15,rock,rock,rock,rock,funk,rock,funk,rock,rock,rock
+XGBoost,drummer1/session3/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/3,rock,rock,rock,rock,rock,jazz,rock,rock,rock,jazz
+XGBoost,drummer1/session3/4,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer1/session3/5,rock,rock,jazz,rock,jazz,rock,rock,jazz,rock,rock
+XGBoost,drummer1/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer1/session3/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer10/session1/1,rock,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer10/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer10/session1/2,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer10/session1/3,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer10/session1/4,rock,jazz,rock,jazz,rock,jazz,jazz,jazz,rock,rock
+XGBoost,drummer10/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer10/session1/6,jazz,jazz,jazz,jazz,jazz,jazz,funk,funk,funk,rock
+XGBoost,drummer10/session1/7,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,rock
+XGBoost,drummer10/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer10/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/10,rock,funk,rock,rock,funk,funk,funk,funk,funk,funk
+XGBoost,drummer3/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer3/session1/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/19,funk,rock,rock,rock,rock,funk,rock,funk,funk,funk
+XGBoost,drummer3/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/20,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/21,jazz,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer3/session1/22,jazz,rock,jazz,jazz,rock,rock,jazz,rock,jazz,rock
+XGBoost,drummer3/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/24,rock,rock,rock,rock,rock,funk,rock,rock,rock,rock
+XGBoost,drummer3/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/27,funk,funk,funk,funk,rock,funk,funk,funk,funk,funk
+XGBoost,drummer3/session1/28,jazz,rock,rock,rock,rock,funk,rock,rock,rock,rock
+XGBoost,drummer3/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/31,rock,jazz,jazz,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/33,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/34,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/35,rock,jazz,jazz,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/36,jazz,rock,jazz,jazz,jazz,jazz,jazz,rock,jazz,jazz
+XGBoost,drummer3/session1/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/39,rock,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/44,rock,rock,rock,rock,rock,jazz,rock,rock,rock,rock
+XGBoost,drummer3/session1/45,rock,rock,rock,rock,rock,jazz,rock,rock,rock,rock
+XGBoost,drummer3/session1/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/48,rock,rock,rock,rock,rock,jazz,jazz,rock,rock,jazz
+XGBoost,drummer3/session1/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/5,jazz,jazz,jazz,jazz,jazz,jazz,jazz,funk,funk,jazz
+XGBoost,drummer3/session1/50,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/6,rock,funk,rock,rock,rock,rock,rock,jazz,rock,rock
+XGBoost,drummer3/session1/7,rock,rock,rock,funk,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session1/8,rock,rock,rock,rock,jazz,rock,jazz,rock,rock,rock
+XGBoost,drummer3/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/27,rock,jazz,jazz,jazz,jazz,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/29,rock,rock,rock,rock,jazz,rock,jazz,jazz,rock,rock
+XGBoost,drummer3/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/34,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/42,rock,jazz,jazz,jazz,rock,rock,rock,rock,rock,jazz
+XGBoost,drummer3/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer3/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer4/session1/1,rock,funk,rock,rock,funk,rock,rock,funk,rock,funk
+XGBoost,drummer4/session1/2,rock,funk,rock,funk,jazz,rock,funk,funk,funk,funk
+XGBoost,drummer4/session1/3,jazz,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer4/session1/4,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer4/session1/5,jazz,jazz,rock,jazz,jazz,jazz,rock,rock,jazz,rock
+XGBoost,drummer4/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer5/session1/1,rock,rock,latin,latin,rock,latin,latin,latin,rock,latin
+XGBoost,drummer5/session1/10,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/11,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/14,rock,latin,latin,latin,latin,latin,rock,rock,rock,latin
+XGBoost,drummer5/session1/15,latin,rock,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/16,rock,rock,latin,latin,latin,latin,rock,latin,latin,latin
+XGBoost,drummer5/session1/2,rock,rock,latin,latin,rock,latin,rock,rock,rock,rock
+XGBoost,drummer5/session1/20,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/3,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/4,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/5,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/6,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session1/9,latin,rock,latin,rock,rock,latin,rock,latin,latin,rock
+XGBoost,drummer5/session2/1,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/12,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer5/session2/14,rock,rock,rock,rock,rock,rock,jazz,rock,rock,rock
+XGBoost,drummer5/session2/15,latin,latin,rock,latin,rock,rock,latin,latin,latin,rock
+XGBoost,drummer5/session2/17,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/18,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer5/session2/2,funk,latin,funk,funk,latin,funk,funk,latin,funk,funk
+XGBoost,drummer5/session2/20,funk,latin,funk,latin,funk,funk,funk,latin,latin,latin
+XGBoost,drummer5/session2/21,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/22,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer5/session2/23,funk,funk,funk,funk,funk,funk,funk,latin,funk,funk
+XGBoost,drummer5/session2/24,funk,latin,latin,latin,rock,latin,rock,funk,latin,latin
+XGBoost,drummer5/session2/3,latin,latin,rock,funk,latin,rock,funk,latin,latin,funk
+XGBoost,drummer6/session2/1,rock,rock,funk,funk,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session2/2,rock,rock,rock,rock,rock,rock,jazz,rock,rock,jazz
+XGBoost,drummer6/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/1,rock,rock,funk,funk,rock,rock,rock,rock,rock,funk
+XGBoost,drummer6/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/5,rock,rock,rock,rock,jazz,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer6/session3/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/12,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session1/13,rock,rock,funk,funk,rock,funk,rock,funk,funk,funk
+XGBoost,drummer7/session1/14,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer7/session1/15,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer7/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/3,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+XGBoost,drummer7/session1/6,funk,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/10,rock,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/11,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/113,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/115,rock,funk,jazz,jazz,rock,rock,rock,rock,jazz,rock
+XGBoost,drummer7/session2/116,rock,rock,rock,rock,rock,rock,rock,jazz,rock,rock
+XGBoost,drummer7/session2/117,funk,funk,funk,funk,funk,funk,funk,funk,funk,rock
+XGBoost,drummer7/session2/118,rock,jazz,rock,jazz,rock,jazz,jazz,rock,jazz,jazz
+XGBoost,drummer7/session2/119,funk,funk,funk,rock,funk,rock,funk,funk,funk,funk
+XGBoost,drummer7/session2/12,rock,funk,rock,rock,funk,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/120,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/121,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/13,rock,rock,funk,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/15,funk,rock,rock,rock,funk,funk,rock,rock,rock,funk
+XGBoost,drummer7/session2/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/17,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/19,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/22,jazz,jazz,rock,jazz,jazz,jazz,jazz,jazz,jazz,rock
+XGBoost,drummer7/session2/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/24,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/27,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/28,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/3,rock,rock,rock,rock,rock,funk,rock,rock,rock,rock
+XGBoost,drummer7/session2/30,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/31,funk,rock,funk,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/32,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/33,rock,jazz,rock,rock,rock,rock,rock,jazz,rock,rock
+XGBoost,drummer7/session2/34,rock,rock,funk,funk,rock,rock,funk,funk,funk,funk
+XGBoost,drummer7/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/37,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/38,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/39,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/42,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/43,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/45,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/46,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/47,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/48,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/49,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/50,jazz,jazz,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/51,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/52,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/64,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/65,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/66,rock,rock,rock,rock,rock,rock,rock,funk,rock,rock
+XGBoost,drummer7/session2/67,rock,funk,rock,rock,funk,funk,rock,rock,funk,rock
+XGBoost,drummer7/session2/68,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/69,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/70,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/71,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/72,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/73,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session2/74,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/75,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/76,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/77,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/78,funk,jazz,funk,funk,rock,funk,rock,rock,funk,funk
+XGBoost,drummer7/session2/79,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session2/8,funk,funk,rock,rock,jazz,rock,rock,rock,funk,funk
+XGBoost,drummer7/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/1,rock,latin,latin,latin,latin,latin,latin,funk,latin,latin
+XGBoost,drummer7/session3/10,rock,rock,rock,latin,rock,latin,rock,rock,rock,rock
+XGBoost,drummer7/session3/108,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/110,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/111,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/112,funk,latin,latin,funk,funk,latin,funk,funk,latin,latin
+XGBoost,drummer7/session3/113,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/114,funk,funk,funk,funk,funk,funk,funk,rock,rock,funk
+XGBoost,drummer7/session3/115,jazz,rock,rock,rock,rock,rock,rock,rock,jazz,rock
+XGBoost,drummer7/session3/116,jazz,jazz,jazz,rock,latin,jazz,jazz,jazz,jazz,rock
+XGBoost,drummer7/session3/118,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/119,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/120,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/121,rock,rock,funk,rock,funk,rock,rock,rock,rock,funk
+XGBoost,drummer7/session3/123,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/124,rock,rock,rock,funk,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/125,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/126,rock,rock,funk,rock,funk,funk,rock,rock,rock,rock
+XGBoost,drummer7/session3/127,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/129,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/3,jazz,funk,funk,funk,rock,funk,funk,funk,funk,rock
+XGBoost,drummer7/session3/39,latin,latin,rock,latin,rock,rock,latin,rock,rock,latin
+XGBoost,drummer7/session3/4,rock,funk,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/40,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/41,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/42,jazz,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/44,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/46,rock,rock,rock,latin,rock,rock,rock,latin,rock,latin
+XGBoost,drummer7/session3/47,funk,funk,rock,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/48,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/49,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/50,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/51,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/52,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/54,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/55,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/56,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/57,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/58,rock,rock,funk,rock,rock,funk,rock,rock,funk,funk
+XGBoost,drummer7/session3/59,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/60,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/61,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/62,funk,funk,funk,funk,funk,funk,rock,funk,funk,funk
+XGBoost,drummer7/session3/63,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/64,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/65,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer7/session3/66,funk,rock,rock,rock,rock,rock,rock,rock,rock,funk
+XGBoost,drummer7/session3/7,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer7/session3/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer7/session3/9,funk,funk,funk,funk,funk,funk,funk,rock,funk,funk
+XGBoost,drummer8/session1/1,rock,funk,rock,rock,rock,rock,rock,funk,rock,rock
+XGBoost,drummer8/session1/12,latin,jazz,latin,jazz,latin,jazz,jazz,jazz,jazz,jazz
+XGBoost,drummer8/session1/13,rock,rock,latin,jazz,jazz,jazz,jazz,rock,rock,rock
+XGBoost,drummer8/session1/18,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer8/session1/2,rock,rock,rock,funk,funk,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/20,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/22,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/24,funk,funk,funk,rock,rock,funk,funk,funk,funk,rock
+XGBoost,drummer8/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/27,latin,rock,funk,latin,funk,latin,rock,funk,rock,rock
+XGBoost,drummer8/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session1/6,rock,funk,funk,funk,funk,rock,funk,rock,funk,funk
+XGBoost,drummer8/session1/7,rock,funk,funk,rock,rock,rock,funk,rock,rock,funk
+XGBoost,drummer8/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session2/1,funk,funk,funk,funk,funk,rock,funk,funk,funk,funk
+XGBoost,drummer8/session2/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,funk
+XGBoost,drummer8/session2/12,funk,funk,funk,funk,funk,funk,funk,funk,rock,funk
+XGBoost,drummer8/session2/15,rock,funk,funk,funk,funk,funk,rock,rock,funk,funk
+XGBoost,drummer8/session2/2,funk,funk,funk,funk,latin,rock,latin,funk,rock,funk
+XGBoost,drummer8/session2/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session2/24,latin,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer8/session2/25,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer8/session2/28,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer8/session2/29,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer8/session2/32,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session2/33,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session2/34,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer8/session2/35,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer8/session2/36,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer8/session2/37,funk,rock,funk,latin,latin,latin,funk,rock,rock,latin
+XGBoost,drummer8/session2/38,latin,rock,latin,rock,rock,rock,latin,rock,rock,rock
+XGBoost,drummer8/session2/39,latin,latin,latin,latin,latin,latin,latin,latin,latin,rock
+XGBoost,drummer8/session2/5,funk,funk,latin,latin,funk,funk,funk,funk,funk,funk
+XGBoost,drummer8/session2/6,funk,funk,funk,funk,funk,funk,funk,funk,funk,funk
+XGBoost,drummer8/session2/7,funk,rock,funk,rock,funk,funk,funk,rock,funk,rock
+XGBoost,drummer8/session2/8,latin,latin,latin,latin,latin,latin,latin,latin,latin,latin
+XGBoost,drummer9/session1/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/15,rock,rock,rock,funk,jazz,rock,funk,jazz,funk,rock
+XGBoost,drummer9/session1/16,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/17,rock,rock,rock,rock,latin,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/18,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/19,rock,rock,rock,rock,rock,rock,latin,rock,rock,latin
+XGBoost,drummer9/session1/2,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/20,rock,rock,rock,jazz,rock,rock,rock,jazz,rock,rock
+XGBoost,drummer9/session1/21,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/22,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/23,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/25,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/26,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/27,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/28,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/29,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/30,rock,rock,rock,rock,rock,latin,rock,rock,rock,latin
+XGBoost,drummer9/session1/4,funk,funk,funk,funk,funk,funk,funk,funk,funk,rock
+XGBoost,drummer9/session1/5,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/8,rock,rock,rock,rock,funk,rock,rock,rock,rock,rock
+XGBoost,drummer9/session1/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session3/1,latin,latin,latin,latin,rock,rock,rock,jazz,latin,latin
+XGBoost,drummer2/session2/1,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/2,rock,rock,rock,rock,rock,jazz,rock,rock,rock,rock
+XGBoost,drummer2/session2/3,rock,rock,rock,rock,rock,rock,rock,rock,jazz,rock
+XGBoost,drummer2/session2/4,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/5,jazz,rock,rock,rock,rock,rock,rock,jazz,rock,rock
+XGBoost,drummer2/session2/6,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/7,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/8,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/9,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/10,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/11,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/12,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/13,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/14,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock
+XGBoost,drummer2/session2/15,rock,rock,rock,rock,rock,rock,rock,rock,rock,rock

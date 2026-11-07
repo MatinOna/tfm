@@ -1,0 +1,9 @@
+genre,beat_type,train,validation,test
+funk,beat,31,6,16
+funk,fill,91,9,7
+jazz,beat,39,5,4
+jazz,fill,38,9,4
+latin,beat,36,9,3
+latin,fill,35,7,4
+rock,beat,167,16,21
+rock,fill,102,18,10

@@ -1,0 +1,6 @@
+genre,train,validation,test,total
+funk,122,15,23,160
+jazz,77,14,8,99
+latin,71,16,7,94
+rock,269,34,31,334
+total,539,79,69,687
