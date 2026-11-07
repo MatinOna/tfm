@@ -1,0 +1,18 @@
+cat > .gitignore << 'EOF'
+# Datos del corpus (se descargan de la web oficial del Groove MIDI Dataset)
+data/
+groove/
+
+# Archivos de sistema de macOS
+.DS_Store
+Icon?
+
+# Archivos temporales de Word
+~$*.docx
+
+# Configuración de PyCharm
+.idea/
+*.docx
+# Carpetas temporales y copias de seguridad
+.claude_tmp/
+EOF
